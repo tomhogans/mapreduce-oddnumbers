@@ -1,7 +1,3 @@
-# Tom Hogans - CS 491 Big Data
-# Final Exam
-# Problem #3, Map Reduce
-
 import mrjob.job
 import re
 
